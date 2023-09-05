@@ -1,0 +1,13 @@
+global using System.Reflection;
+global using System.Threading.Tasks;
+global using System.Collections.Generic;
+global using System;
+global using System.Linq;
+global using data;
+global using data.Extensions;
+global using Store.Mvc.Configurations;
+global using System.Globalization;
+global using Microsoft.AspNetCore.Mvc.Filters;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using core.Settings;
